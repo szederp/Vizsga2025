@@ -1,4 +1,5 @@
 # Vizsga2025
+a
 IT Támogató Munkatárs Képzés
 Tisztelt Bizottság! 
 Weboldalunk címe: https://joutabankut.byethost15.com/ <br>
