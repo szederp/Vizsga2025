@@ -69,3 +69,4 @@ A weboldal alján található lábléc rész minden egyes aloldalon hozzáférhe
 - https://aktivkalandor.hu/wp-content/uploads/2024/04/Bankut-2_bankut.hu_.jpg
 - https://fineartamerica.com/featured/a-happy-skier-smiling-raises-his-arms-patrick-orton.html
 - https://www.snowmagazine.com/features/focus-on/skiing-happy-mental-health
+- https://youtu.be/bO4j38Az0Cc
