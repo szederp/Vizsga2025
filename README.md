@@ -36,7 +36,7 @@ A következő aloldalak kaptak helyet:
 - **Kapcsolatfelvétel**
 - **Fiók**
 
-### Kedőoldal
+### Kezdőoldal
 A korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
 
 ### Blog
